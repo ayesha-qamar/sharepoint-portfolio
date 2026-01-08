@@ -7,3 +7,4 @@ A collection of SharePoint intranet and Microsoft 365 demo projects created by m
 ![AQ Intranet Homepage](images/aq-intranet-home1.png)
 ![AQ Intranet Homepage](images/aq-intranet-home2.png)
 ![AQ Intranet Homepage](images/aq-intranet-home3.png)
+![AQ Intranet News](images/aq-intranet-news.png)
